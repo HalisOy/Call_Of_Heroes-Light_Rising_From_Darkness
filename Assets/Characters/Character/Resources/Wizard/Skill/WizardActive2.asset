@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fb3764a9de39cc47bd61a168cc6e48c, type: 3}
+  m_Name: WizardActive2
+  m_EditorClassIdentifier: 
+  SkillImage: {fileID: 21300000, guid: 417248b454a53034f8b101d0a8a10cd3, type: 3}
+  Name: "\xC7\xFCr\xFCten Lanet"
+  Description: "D\xFC\u015Fman\u0131n ruhunu lanetler ve belirli bir s\xFCre boyunca
+    x3, x5, x7 \u015Feklinde katlanarak hasar vurur"
+  SkillLevel: 2
+  SkillPrefabs: {fileID: 5500333101338781061, guid: f3dd469d5a5e8ca4184d4653064afe79, type: 3}
+  SkillLevels:
+  - SkillCoolDown: 18
+    SkillActiveTime: 0
+    SkillPower: 1
+    SellPoint: 0
+  - SkillCoolDown: 13
+    SkillActiveTime: 0
+    SkillPower: 2
+    SellPoint: 0
+  - SkillCoolDown: 8
+    SkillActiveTime: 0
+    SkillPower: 3
+    SellPoint: 0

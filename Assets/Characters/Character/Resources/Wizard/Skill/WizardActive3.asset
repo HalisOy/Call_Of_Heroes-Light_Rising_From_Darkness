@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fb3764a9de39cc47bd61a168cc6e48c, type: 3}
+  m_Name: WizardActive3
+  m_EditorClassIdentifier: 
+  SkillImage: {fileID: 0}
+  Name: Zihin Kontrol
+  Description: "D\xFC\u015Fman\u0131n\u0131n zihnini ge\xE7ici s\xFCreli\u011Fine
+    ele ge\xE7iren ve yan\u0131nda sava\u015Fmas\u0131 i\xE7in zorlayan bir b\xFCy\xFC
+    yapar bu esnada ele ge\xE7irdi\u011Fimiz d\xFC\u015Fman karanl\u0131k g\xFC\xE7
+    ile g\xFC\xE7lenir.(Can-sald\u0131r\u0131 de\u011Feri)"
+  SkillLevel: 0
+  SkillPrefabs: {fileID: 0}
+  SkillLevels:
+  - SkillCoolDown: 10
+    SkillActiveTime: 10
+    SkillPower: 0
+    SellPoint: 0
+  - SkillCoolDown: 40
+    SkillActiveTime: 15
+    SkillPower: 0
+    SellPoint: 0
+  - SkillCoolDown: 30
+    SkillActiveTime: 20
+    SkillPower: 0
+    SellPoint: 0

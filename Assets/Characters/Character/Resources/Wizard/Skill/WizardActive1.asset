@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fb3764a9de39cc47bd61a168cc6e48c, type: 3}
+  m_Name: WizardActive1
+  m_EditorClassIdentifier: 
+  SkillImage: {fileID: 21300000, guid: 183439b5908e3324e87363b734ee137f, type: 3}
+  Name: "Karanl\u0131\u011F\u0131n Eli"
+  Description: "D\xFC\u015Fmana uzaktan bir lanet g\xF6nderip ona 3x hasar vuran
+    bir el g\xF6nderir"
+  SkillLevel: 0
+  SkillPrefabs: {fileID: 5780244074357703521, guid: b3fe15e34cc046b46892d4836c171cf8, type: 3}
+  SkillLevels:
+  - SkillCoolDown: 15
+    SkillActiveTime: 0
+    SkillPower: 2
+    SellPoint: 0
+  - SkillCoolDown: 10
+    SkillActiveTime: 0
+    SkillPower: 2
+    SellPoint: 0
+  - SkillCoolDown: 5
+    SkillActiveTime: 0
+    SkillPower: 3
+    SellPoint: 0
