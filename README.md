@@ -5,9 +5,10 @@ Takım: U-18
 
 # Call Of Heroes: Light Rising From Darkness
 
+![Game in picture 1](https://github.com/HalisOy/Call_Of_Heroes-Light_Rising_From_Darkness/blob/master/Thumb.jpeg)
+
 ## Takım:
 - Eren Öztürk: Scrum Master / Product Owner
-- MerveGül Kansak: Developer / Product Owner
 - Halis Oy: Developer / Master Develop!
 - Asude Nihan Arslan: Game Artist / Level Design
 - Egecan Çelebi: Game Artist / Game Design
